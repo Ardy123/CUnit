@@ -1,14 +1,14 @@
 dnl Applied patch to handle AC_ARG_ENABLE targets (Patch 1250604) - Provided by Andrew Kephart <andrew.kephart@alereon.com
 
-AC_INIT([CUnit],[2.1-3])
-AM_INIT_AUTOMAKE(CUnit, 2.1-3)
+AC_INIT([CUnit],[2.1-4])
+AM_INIT_AUTOMAKE(CUnit, 2.1-4)
 
 dnl Package version information
 PACKAGE=CUnit
 VERSION_MAJOR=2
 VERSION_MINOR=1
 VERSION=${VERSION_MAJOR}.${VERSION_MINOR}
-RELEASE=3
+RELEASE=4
 
 dnl Shared library version information
 dnl
